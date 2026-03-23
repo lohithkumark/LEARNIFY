@@ -1,4 +1,7 @@
 Learnify — Online Learning Platform
+
+
+
 A full stack online learning platform built with the MERN stack. Students can browse, enroll, and learn from courses while instructors can create and manage their content with real-time analytics dashboards.
 
 ✨ Features
